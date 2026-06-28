@@ -100,7 +100,7 @@ const styles = StyleSheet.create({
   
   // -- 1. Navigation Header --
   navBar: {
-    marginTop: 40,
+    marginTop: 0,
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',
