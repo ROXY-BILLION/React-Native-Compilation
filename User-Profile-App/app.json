@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Instagram-Profile-Ui",
-    "slug": "Instagram-Profile-Ui",
+    "name": "User-Profile-App",
+    "slug": "User-Profile-App",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
